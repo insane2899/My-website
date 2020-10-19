@@ -9,6 +9,7 @@ class Projects extends Component {
   render() {
     return (
       <Jumbotron style={{background: "transparent",paddingBottom: "10vw",paddingLeft: "20vw", paddingRight: "20vw"}}>
+        <center><h1 style={{fontSize:"40px",fontWeight:"500",color:"white"}}>Projects</h1></center>
         <Carousel showArrows={true} style={{zIndex: "5"}}>
               <Card className={mystyle.cardstyle}>
                 <Card.Body>
