@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "jest-worker": "^26.5.0"
+    "jest-worker": "^26.5.0",
+    "terser-webpack-plugin": "^5.0.0"
   }
 }
